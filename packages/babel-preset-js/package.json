@@ -2,7 +2,7 @@
   "name": "@momoko/babel-preset-js",
   "version": "1.0.0",
   "description": "@momoko / Babel 配置 for js",
-  "author": "momoko <ko.momo@qq.com>",
+  "author": "komo <ko.momo@qq.com>",
   "license": "MIT",
   "private": false,
   "publishConfig": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wannaxiao/babel-preset"
+    "url": "https://github.com/komomoo/babel-preset"
   },
   "keywords": [
     "babel",
